@@ -48,7 +48,7 @@ sudo apt install python3-pypdf python3-requests python3-termcolor fzf
 ```ini
 [DEFAULT]
 REFRESHTOKEN=0.A...
-CLIENT_ID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+CLIENT_ID=d3590ed6-52b3-4102-aeff-aad2292ab01c
 DOMAIN=contoso.onmicrosoft.com
 ACCESSTOKEN=
 ```
