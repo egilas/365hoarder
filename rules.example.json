@@ -1,0 +1,18 @@
+{
+  "filename_terms": [
+    "acquisition",
+    "breakglass",
+    "confidential",
+    "credential",
+    "password",
+    "payroll",
+    "private key",
+    "secret"
+  ],
+  "sensitive_extensions": [
+    ".env",
+    ".key",
+    ".kdbx",
+    ".pfx"
+  ]
+}
